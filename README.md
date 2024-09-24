@@ -77,6 +77,16 @@ Next you can migrate table data by clicking "migrate data" option
 Both tables are migrated to Azure SQL Successfully
 
 
+![image](https://github.com/user-attachments/assets/aeaf2220-c31d-4024-a64f-a60b7bb27099)
 
+
+![image](https://github.com/user-attachments/assets/4affa70a-22ba-4728-8571-65c55c8f7f59)
+
+![image](https://github.com/user-attachments/assets/c8945d88-2373-451d-ade0-c6ea14d7c1b1)
+
+
+Both tables are succesfully migrated
+
+# Happy coding
 
 
