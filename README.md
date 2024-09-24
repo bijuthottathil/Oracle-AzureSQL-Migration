@@ -1,6 +1,7 @@
 
 # Intend of this repository is to show case migration of oracle tables to Azure SQL using SQL Server Migration Assistant for Oracle
 
+![image](https://github.com/user-attachments/assets/6b219eda-6e5e-4eb5-9fc0-86e5c703678b)
 
 My Source Database is Oracle 21 configured in my personal laptop. I have schema called myuser and few tables available to migrate to Azure SQL
 
